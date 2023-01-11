@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+    color: beige;
+    text-shadow: 3px 0 rgb(14, 14, 1);
+}
+.drum{
+    background-color: #283149;
+    padding: 10px 30px;
+    border: 1px solid #A9A9A9;
+    border-radius: 28px;
+    color: #fff;
+    font-size: 1rem;
+    outline: 0;
+}
